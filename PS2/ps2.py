@@ -2,11 +2,11 @@
 
 # Graph optimization
 
-# Name: Thang Tran
+# Name: 
 
-# Collaborators: Thang Tran
+# Collaborators: 
 
-# Time: Way too long
+# Time: 
 
 
 
